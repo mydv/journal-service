@@ -1,4 +1,4 @@
-package com.mohity.journalservice;
+package com.mohity.journalservice.dto;
 
 public enum EventType {
     CREATE_USER,

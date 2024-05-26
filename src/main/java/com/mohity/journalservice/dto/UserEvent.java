@@ -1,4 +1,4 @@
-package com.mohity.journalservice;
+package com.mohity.journalservice.dto;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import lombok.AllArgsConstructor;

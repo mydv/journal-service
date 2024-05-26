@@ -1,5 +1,6 @@
-package com.mohity.journalservice;
+package com.mohity.journalservice.model;
 
+import com.mohity.journalservice.dto.EventType;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Builder;

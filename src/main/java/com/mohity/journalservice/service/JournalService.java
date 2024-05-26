@@ -1,4 +1,7 @@
-package com.mohity.journalservice;
+package com.mohity.journalservice.service;
+
+import com.mohity.journalservice.model.JournalEntry;
+import com.mohity.journalservice.dto.UserEvent;
 
 import java.util.List;
 

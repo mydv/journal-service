@@ -1,5 +1,8 @@
-package com.mohity.journalservice;
+package com.mohity.journalservice.service;
 
+import com.mohity.journalservice.model.JournalEntry;
+import com.mohity.journalservice.repository.JournalEntryRepository;
+import com.mohity.journalservice.dto.UserEvent;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,6 +1,7 @@
-package com.mohity.journalservice;
+package com.mohity.journalservice.service;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
+import com.mohity.journalservice.dto.UserEvent;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.kafka.annotation.KafkaListener;
 import org.springframework.stereotype.Service;

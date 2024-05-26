@@ -1,5 +1,7 @@
-package com.mohity.journalservice;
+package com.mohity.journalservice.controller;
 
+import com.mohity.journalservice.model.JournalEntry;
+import com.mohity.journalservice.service.JournalService;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.media.ArraySchema;
 import io.swagger.v3.oas.annotations.media.Content;
