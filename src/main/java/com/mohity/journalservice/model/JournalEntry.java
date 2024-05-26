@@ -23,6 +23,7 @@ public class JournalEntry {
     @Column(name = "user_id")
     private Long userId;
 
+    @Enumerated(EnumType.STRING)
     @Column(name = "event_type")
     private EventType eventType;
 
